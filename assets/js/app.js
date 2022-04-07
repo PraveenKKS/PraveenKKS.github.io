@@ -133,7 +133,6 @@ let footer = $(`
                 <h6 class="display">Get in Touch</h6>
               </div>
                 <p class="tag"><b>imailpraveen@gmail.com</b></p>
-                <p class="tag"><b>(+91) 8779038689</b></p>
              </div>
           </div>
         </div>

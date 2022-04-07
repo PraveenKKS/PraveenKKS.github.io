@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/cognizant.png",
     place: "Mumbai",
     time: "(March, 2022 - present)",
-    desp: "<li>Good exposure of .NET development (C#.NET v4+, Visual Studio, ASP.NET MVC, Angular 8+)</li><li>Good database development knowledge (SQL Server v2012+, MySQL)</li><li>SDLC support tools (JIRA, Confluence, SharePoint)</li><li>Version Controllers: GitHub, Azure Repos</li><li>Process: SCRUM/Agile Methodology</li>",
+    desp: "<li>Working as a .NET Full Stack Developer.</li>",
   },
   {
     title: "Senior Software Engineer",
