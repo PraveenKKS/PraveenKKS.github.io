@@ -17,8 +17,8 @@ let header = $(`
 
 <div class="collapse navbar-collapse " id="navbarSupportedContent">
   <ul class="navbar-nav ml-auto" id = "navbar-content">
-  <li>
-  <button class="btn" onclick="window.location.href='/assets/docs/Praveenkumar.pdf';"><i class="fa fa-download"></i> Resume</button>
+  <li class="nav-item nav-item-hover">
+  <a class="nav-link" href="mailto:imailpraveen@gmail.com?&subject=Job%20Opportunity%20|%20Share%20Resume&body=Hey%20there!%0d%0aCan%20you%20please%20share%20your%20resume?%0d%0a%0d%0aBest%20Regards,%0d%0aSender" target="_top">Send Mail to get Resume!</a>
   </li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="experience.html">Experience</a></li>
