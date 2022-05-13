@@ -21,7 +21,7 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="experience.html">Experience</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>
    <li class="nav-item nav-item-hover">
-  <a class="nav-link" href="https://drive.google.com/file/d/1d2SNujXuk0NWc2ppkUdMQhqMq8EIODaU/view" target="_blank">Resume</a>
+  <a class="nav-link" href="mailto:imailpraveen@gmail" target="_blank">Send Mail to get Resume!</a>
   </li>
    <li class="nav-item">
    <input type="checkbox" id="dark_toggler" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()">
@@ -134,7 +134,7 @@ let footer = $(`
               </div>
                 <p class="tag"><b>imailpraveen@gmail.com</b></p>
              </div>
-          </div>
+			 </div>
         </div>
     </div>
 
