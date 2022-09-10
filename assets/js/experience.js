@@ -5,11 +5,11 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Associate - Projects",
+    title: "Software Engineer - FSE",
     cardImage: "assets/images/experience-page/cognizant.png",
     place: "Mumbai",
     time: "(March, 2022 - present)",
-    desp: "<li>Working as a .NET Full Stack Developer.</li>",
+    desp: "<li>Working as a .NET/Azure Full Stack Developer.</li>",
   },
   {
     title: "Senior Software Engineer",
