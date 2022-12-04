@@ -20,9 +20,7 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="experience.html">Experience</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>
-   <li class="nav-item nav-item-hover">
-  <a class="nav-link" href="mailto:imailpraveen@gmail" target="_blank">Email</a>
-  </li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="mailto:imailpraveen@gmail?subject=Job Opportunity&body=Hi there!%0DBody content" target="_blank">Email</a></li>
    <li class="nav-item">
    <input type="checkbox" id="dark_toggler" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()">
    </li>
