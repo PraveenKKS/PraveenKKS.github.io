@@ -24,15 +24,20 @@ const moocscards = [
     cardImage: "assets/images/education-page/scrumstudy.svg",
     moocLink: "https://www.scrumstudy.com/certification/verify?type=SFC&number=785553",
   },
+   {
+    title: "Six Sigma Yellow Belt",
+    cardImage: "assets/images/education-page/scrumstudy.svg",
+    moocLink: "https://drive.google.com/drive/u/0/folders/1fjuIhqpvj0XrKrN78Ejr-JQ80nErmPnF",
+  },
+   {
+    title: "Negotiation Associate",
+    cardImage: "assets/images/education-page/scrumstudy.svg",
+    moocLink: "https://drive.google.com/drive/u/0/folders/1fjuIhqpvj0XrKrN78Ejr-JQ80nErmPnF",
+  },
   {
     title: "ICSI | CNSS Certified Network Security Specialist",
     cardImage: "assets/images/education-page/ICSI.jpg",
     moocLink: "https://www.credential.net/8e911807-6eda-4880-b39e-7c1bcabaf6c0#gs.tzndfl",
-  },
-  {
-    title: "Six Sigma Yellow Belt",
-    cardImage: "assets/images/education-page/scrumstudy.svg",
-    moocLink: "http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificate/SixSigmaYellowBelt-PraveenkumarKaruppan-734041.pdf",
   },
   {
     title: "Getting Started with Azure",
@@ -108,6 +113,71 @@ const moocscards = [
     title: "Azure: Create a Virtual Machine and Deploy a Web Server",
     cardImage: "assets/images/education-page/coursera2.svg",
     moocLink:"https://www.coursera.org/account/accomplishments/verify/36L87CL9KWHH",
+  },
+  {
+    title: "Software Processes and Agile Practices",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink:"https://www.coursera.org/account/accomplishments/verify/F2762RHVALL9",
+  },
+  {
+    title: "Server-side Development with NodeJS, Express and MongoDB",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink:"https://www.coursera.org/account/accomplishments/verify/HGTCDF8A5YUC",
+  },
+  {
+    title: "Python for Data Science, AI & Development",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink:"https://www.coursera.org/account/accomplishments/verify/KD9UJ8N9284N",
+  },
+  {
+    title: "Penetration Testing, Incident Response and Forensics",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink:"https://www.coursera.org/account/accomplishments/verify/GD6BPKCMUULB",
+  },
+  {
+    title: "AI Foundations for Everyone",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink:"https://www.coursera.org/account/accomplishments/verify/HMPLGAQ5NFWU",
+  },
+  {
+    title: "Introduction to Data Science",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink:"https://www.coursera.org/account/accomplishments/verify/P3359DSBWP7L",
+  },
+  {
+    title: "IT Fundamentals for Cybersecurity",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink:"https://www.coursera.org/account/accomplishments/verify/7PZLVD9YZ274",
+  },
+  {
+    title: "Data Analysis with Python",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink:"https://www.coursera.org/account/accomplishments/verify/6PMLV3D53T4A",
+  },
+  {
+    title: "Machine Learning With Big Data",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink:"https://www.coursera.org/account/accomplishments/verify/7P7XJ6KTY2VS",
+  },
+  {
+    title: "M001: MongoDB Basics",
+    cardImage: "assets/images/education-page/mongodb.svg",
+    moocLink:"https://drive.google.com/file/d/1Gxcc7NG5kV8ORGu57aAYkjXgFnQbEs7u/view?usp=share_link",
+  },
+  {
+    title: "Alibaba Cloud Network Solution",
+    cardImage: "assets/images/education-page/alibabacloud.svg",
+    moocLink: "https://xuecdn2.aliyunedu.net/img_e82a6aa7f2f43eb221e04407607c49e7.png",
+  },
+  {
+    title: "NSE 1 Network Security Associate",
+    cardImage: "assets/images/education-page/fortinet.svg",
+    moocLink:"https://drive.google.com/file/d/1gpKsImreDPrU6unNZ4jClYvDVW7ZnV9z/view?usp=share_link",
+  },
+  {
+    title: "VMware Workspace ONE Advanced Integration and Design Specialist Exam Prep 2019",
+    cardImage: "assets/images/education-page/vmware.svg",
+    moocLink:"https://drive.google.com/file/d/1Gx4jKTliat_LQnCr9syml8ZAN5cRQvCy/view?usp=share_link",
   },
 ];
 
