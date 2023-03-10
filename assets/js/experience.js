@@ -9,15 +9,14 @@ const exp = [
     cardImage: "assets/images/experience-page/cognizant.png",
     place: "Mumbai",
     time: "(March, 2022 - present)",
-    desp: "<li>Working as a .NET/Azure Full Stack Developer.</li>",
+    desp: "<ul><li>Design and develop web applications using .NET, C#, ASP.NET, and .NET Core frameworks.</li><li>Create and maintain Web API's for communication between different systems and applications.</li><li>Work with SQL Server to design and implement database structures and perform data manipulation tasks.</li><li>Utilize Azure DevOps to manage code repositories, and build and deploy applications using Azure CI/CD.</li><li>Leverage Azure Services such as Azure Functions, Key Vaults, App Services, Web Apps, and App Insights to build scalable and secure applications.</li><li>Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions.</li><li>Use Azure Boards and Azure Repositories for planning, tracking, and managing tasks and bugs.</li><li>Troubleshoot and debug issues in the applications, and work with the team to resolve them.</li><li>Participate in code reviews and ensure that the code meets the standards of quality and performance.</li><li>Help to develop and maintain technical documentation, training, and support materials for the application.</li></ul>",
   },
   {
     title: "Senior Software Engineer",
     cardImage: "assets/images/experience-page/capgemini.png",
     place: "Mumbai",
     time: "(Jun, 2019 - Feb, 2022)",
-    desp: "<li>Worked as a .NET Full Stack Developer.</li><li>Experience in technologies - ASP .NET, C#, Web API, MVC Framework, JavaScript, jQuery</li><li>Experience in developing web applications using the MVC framework</li><li>Strong knowledge of C#, ASP.NET, .NET framework, Visual Studio</li><li>Scrum software development methodology</li><li>Knowledge on Azure DevOps CI/CD</li><li>Troubleshooting production issues and provide RCA.</li></li>",
-  }
+    desp: "<ul><li>Experienced in utilizing various .NET technologies including the .NET framework, ASP .NET, VB.NET, C#, Web API, MVC Framework, SQL, Entity Framework.</li><li>Proficient in Azure DevOps CI/CD</li><li>Skilled in troubleshooting and resolving software issues for end customers, production issues, and providing root cause analysis (RCA) for development and production problems across multiple environments and platforms.</li><li>Adept at identifying and resolving problems in application software through debugging, research, investigation, and analysis of requirements and creating technical specifications to implement solutions.</li><li>Proven track record in providing problem resolution support specific to application issues, determining symptoms and ensuring accurate problem definition.</li><li>Expert in .NET development utilising C#.NET v4+, Visual Studio, ASP.NET MVC, Angular 8+, SQL Server v2012+, MySQL</li><li>Proficient in version control using GitHub and Azure Repos.</li><li>Adept in working in SCRUM/Agile methodology.</li><li>Skilled in identifying, diagnosing, isolating, reporting and resolving errors in software code. Known for exceptional troubleshooting abilities to uncover complex issues.</li></ul>"}
 ];
 
 const showCards2 = () => {
